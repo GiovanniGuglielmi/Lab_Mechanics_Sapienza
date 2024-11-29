@@ -1,1 +1,4 @@
-->  Il file per analisi SHS 
+->  Il file per analisi SHS dev'essere ridotto in funzioni.
+->  L'obiettivo è che uno possa selezionare un subset dove fare l'analisi, e successivamente possa peakkare manualmente gli eventi
+    SHS in termini di healing, creep relaxation, compaction durante hold e dilation upon reshear.
+->  Infine, deve venire esportato un file .csv con colonne "hold_time", "healing", "creep_relaxation", "compaction" e "dilatancy" 
